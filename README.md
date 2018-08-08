@@ -4,7 +4,7 @@
 
 ## Download
 
-[Click releases](https://github.com/Quickits/Sewing/releases) to Download the latest version.
+Click [releases](https://github.com/Quickits/Sewing/releases) to Download the latest version
 
 ## Usage
 
