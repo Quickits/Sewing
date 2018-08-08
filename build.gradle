@@ -1,9 +1,14 @@
 plugins {
     id 'java'
+    id 'application'
+    id 'de.fuerstenau.buildconfig' version '1.1.8'
+    id 'idea'
 }
 
 group 'cn.quickit'
-version '1.0-SNAPSHOT'
+version '1.0.2'
+
+mainClassName = 'cn.quickits.sewing.Sewing'
 
 sourceCompatibility = 1.8
 
@@ -14,4 +19,5 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile 'commons-cli:commons-cli:1.4'
+    compile 'com.android.tools:sdk-common:25.3.0'
 }

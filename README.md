@@ -1,2 +1,4 @@
 # Sewing
-🖌 Sewing is a SVG to VectorDrawable Converter
+
+🖌 Sewing is a SVG to VectorDrawable batch processor
+

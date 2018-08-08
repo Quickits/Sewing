@@ -7,7 +7,7 @@ public class SewingTest {
 
     @Test
     public void testOptions() throws ParseException {
-        String args[] = {"-i xxx"};
+        String args[] = {"-h"};
         Sewing.main(args);
     }
 }
